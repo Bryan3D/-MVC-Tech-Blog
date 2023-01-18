@@ -2,10 +2,11 @@ const router = require('express').Router();
 const {Project} = require('../../models');
 const withAuth = require('../../utils/auth');
 
-// GET all projects
 
+
+// get all projects for a user 
 router.post('/', withAuth, async (res, req) => {
-
+  
     try{
         const newProject = await Project.create({
             ...req.body,

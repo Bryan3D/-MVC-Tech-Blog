@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="assets/2023-01-18%2016_36_56-Window.png"/>
+<img src="assets/1-18-2023%20(17-02-48).gif"/>
 </p>
 
 ## 0.1. Table of Contents
