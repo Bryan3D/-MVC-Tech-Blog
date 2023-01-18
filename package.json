@@ -1,0 +1,28 @@
+{
+  "name": "-mvc-tech-blog",
+  "version": "1.0.0",
+  "description": "MVC-Tech-Blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryan3D/-MVC-Tech-Blog.git"
+  },
+  "author": "Bryan A Quero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bryan3D/-MVC-Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/Bryan3D/-MVC-Tech-Blog#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "connect-session-sequelize": "^7.1.5",
+    "dotenv": "^16.0.3",
+    "express-handlebars": "^6.0.6",
+    "express-session": "^1.17.3",
+    "sequelize": "^6.28.0",
+    "sqlite3": "^5.1.4"
+  }
+}
