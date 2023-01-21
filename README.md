@@ -47,9 +47,7 @@ Your task this week is to build a CMS-style blog site similar to a Wordpress sit
 
 ![Alt text]()
 
-![Alt text]()
 
-![Alt text]()
 
 
 
